@@ -9,7 +9,7 @@ public class Music : MonoBehaviour
 
     public void OnLevelWasLoaded(int level)
     {
-        if (level >= 4)
+        if (level >= 3)
         {
             GameObject.FindObjectOfType<Music>();
             Destroy(_play.gameObject);
