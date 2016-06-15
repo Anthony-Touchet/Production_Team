@@ -2078,7 +2078,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PowerUpList: []
-  TimeTilPUActive: 5
+  TimeTilPUActive: 5.12
   time: 0
 --- !u!1001 &771706138
 Prefab:
